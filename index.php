@@ -6,5 +6,7 @@
 </head>
 <body>
 	<h1>Autodeploy</h1>
+
+	<p>Paragrafo adicionado</p>
 </body>
 </html>
